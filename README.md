@@ -7,7 +7,7 @@ Open Message-Encoders HTML file in a webbrowser and click on the **"Encode"** ta
 ### For Devlopers
 **_see license.txt_**
 
-JavaScript on release will be encoded, download from [Main Page](https://github.com/CarsonDS/Message-Encoder/tree/script)
+JavaScript on release will be encoded, download from [Sub Page](https://github.com/CarsonDS/Message-Encoder/tree/script)
 
 **DO NOT CHANGE** click functions:
 ```
